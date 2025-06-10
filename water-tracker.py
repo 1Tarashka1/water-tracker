@@ -6,6 +6,7 @@ import os
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
+
 class WaterTrackerApp:
     def __init__(self, root):
         self.root = root
